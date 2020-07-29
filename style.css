@@ -627,7 +627,7 @@ Arrow pointer div end
 
 @media screen and (max-width: 600px) {
   .threethings {
-    margin-top: 10%;
+    margin-top: 50%;
   }
 }
 
@@ -1812,6 +1812,10 @@ Arrow pointer div end
 }
 @media screen and (max-width: 600px) {
 .Tube1 {
-width: 90%;
+width: 100%;
+margin-left: -1%;
+height: 200%;
+
+
 }
 }
