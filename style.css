@@ -1805,7 +1805,13 @@ Arrow pointer div end
   }
 }
 
-.Youtube1 {
- width: 450%;
- height: 350%;
+.Tube1 {
+ width: 100%;
+ height: 60%;
+ margin-left: 20%;
+}
+@media screen and (max-width: 600px) {
+.Tube1 {
+width: 10%;
+}
 }
