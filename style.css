@@ -139,6 +139,9 @@ header {
   transition: inherit;
 }
 
+
+
+
 .nav-link:hover:before {
   left: 0;
   width: 90%;
@@ -1818,4 +1821,10 @@ height: 200%;
 
 
 }
+}
+
+ .navbar-nav a.active {
+	background-color: #158087;
+  color: #000;
+  width: 100%;
 }
