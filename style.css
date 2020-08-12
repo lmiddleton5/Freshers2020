@@ -1887,3 +1887,10 @@ height: 200%;
   background-position: center;
   background-size: cover;
 }
+
+
+.card-header-img-online {
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
+  background-position: center;
+  background-size: cover;
+}
