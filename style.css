@@ -1865,19 +1865,19 @@ height: 200%;
 }
 
 .card-header-img-sport {
-  background-image: url('assets/img/Sport.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Sport.jpg?raw=true');
   background-position: center;
   background-size: cover;
 }
 
 .card-header-img-socs {
-  background-image: url('assets/img/Socs.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Socs.jpg?raw=true');
   background-position: center;
   background-size: cover;
 }
 
 .card-header-img-volunteer {
-  background-image: url('assets/img/su\ volunteers.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Socs.jpg?raw=true');
   background-position: center;
   background-size: cover;
 }
