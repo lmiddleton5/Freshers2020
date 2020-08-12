@@ -1863,3 +1863,21 @@ height: 200%;
   background-position: center;
   background-size: cover;
 }
+
+.card-header-img-sport {
+  background-image: url('assets/img/Sport.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-header-img-socs {
+  background-image: url('assets/img/Socs.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-header-img-volunteer {
+  background-image: url('assets/img/su\ volunteers.jpg');
+  background-position: center;
+  background-size: cover;
+}
