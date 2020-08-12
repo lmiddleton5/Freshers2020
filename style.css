@@ -1851,3 +1851,15 @@ height: 200%;
   height: 3px;
   background-color: #158087;
 }
+
+.card-header-img-quiz {
+  background-image: url('assets/img/Quiz\ Night.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-header-img-escape {
+  background-image: url('assets/img/Escape\ Room.jpg');
+  background-position: center;
+  background-size: cover;
+}
