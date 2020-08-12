@@ -1853,13 +1853,13 @@ height: 200%;
 }
 
 .card-header-img-quiz {
-  background-image: url('assets/img/Quiz\ Night.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Quiz%20Night.jpg?raw=true');
   background-position: center;
   background-size: cover;
 }
 
 .card-header-img-escape {
-  background-image: url('assets/img/Escape\ Room.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Escape%20Room.jpg?raw=true');
   background-position: center;
   background-size: cover;
 }
