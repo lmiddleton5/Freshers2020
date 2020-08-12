@@ -1881,3 +1881,9 @@ height: 200%;
   background-position: center;
   background-size: cover;
 }
+
+.card-header-img-meet {
+  background-image: url('assets/img/Meet\ The\ Union.jpg');
+  background-position: center;
+  background-size: cover;
+}
