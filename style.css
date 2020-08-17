@@ -1902,12 +1902,12 @@ height: 200%;
   background-size: cover;
 }
 
+
 .heroimg1 {
   background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/GlimpseHero.jpg?raw=true');
   background-size: cover;
   background-position: center;
   height: 45em;
-  margin-left: 0%;
   margin-top: 5%;
 }
 
@@ -1929,28 +1929,11 @@ height: 200%;
     background-size: cover;
     background-position: center;
 
-    height: 45em;
+    height: 20em;
 
-    margin-top: 0%;
+    margin-top: 20%;
   }
 }
-
-@media screen 
-  and (min-device-width: 1200px) {
-
-  
-  .heroimg1 {
-    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/GlimpseHero.jpg?raw=true');
-    background-size: cover;
-    background-position: center;
-
-    height: 35em;
-
-    margin-top: 5%;
-  }
-}
-
-
 
 
 
