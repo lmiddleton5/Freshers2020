@@ -1670,7 +1670,7 @@ Arrow pointer div end
 */
 
 .heroimg {
-  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
+  background-image: url('assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg');
   background-size: cover;
   background-position: center;
   height: 45em;
@@ -1679,7 +1679,7 @@ Arrow pointer div end
 
 @media screen and (max-width: 600px) {
   .heroimg {
-    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
+    background-image: url('assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg');
 
     background-size: cover;
     height: 25em;
@@ -1691,7 +1691,7 @@ Arrow pointer div end
 
 @media (min-width: 992px) and (max-width: 1200px) {
   .heroimg {
-    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-Resized.jpg?raw=true');
+    background-image: url('assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg');
     background-size: cover;
     background-position: center;
 
@@ -1895,3 +1895,51 @@ height: 200%;
   background-position: center;
   background-size: cover;
 }
+
+.card-header-img-glimpse {
+  background-image: url('assets/img/Glipse\ Event\ Card.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+
+.heroimg1 {
+  background-image: url('assets/img/GlimpseHero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 45em;
+  margin-left: 0%;
+  margin-top: 3%;
+}
+
+@media screen and (max-width: 600px) {
+  .heroimg1 {
+    background-image: url('assets/img/GlimpseHero.jpg');
+
+    background-size: cover;
+    height: 10em;
+
+    margin-top: 30%;
+    background-position: center;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .heroimg1 {
+    background-image: url('assets/img/GlimpseHero.jpg');
+    background-size: cover;
+    background-position: center;
+
+    height: 30em;
+
+    margin-top: 10%;
+  }
+}
+
+
+
+
+
+
