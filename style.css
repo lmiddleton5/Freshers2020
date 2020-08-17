@@ -1670,7 +1670,7 @@ Arrow pointer div end
 */
 
 .heroimg {
-  background-image: url('assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg?raw=true');
   background-size: cover;
   background-position: center;
   height: 45em;
@@ -1679,7 +1679,7 @@ Arrow pointer div end
 
 @media screen and (max-width: 600px) {
   .heroimg {
-    background-image: url('assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg');
+    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg?raw=true');
 
     background-size: cover;
     height: 25em;
@@ -1691,7 +1691,7 @@ Arrow pointer div end
 
 @media (min-width: 992px) and (max-width: 1200px) {
   .heroimg {
-    background-image: url('assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg');
+    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Freshers-2020-Hero-Image-v2-Proof.jpg?raw=true');
     background-size: cover;
     background-position: center;
 
@@ -1897,7 +1897,7 @@ height: 200%;
 }
 
 .card-header-img-glimpse {
-  background-image: url('assets/img/Glipse\ Event\ Card.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Glipse%20Event%20Card.jpg?raw=true');
   background-position: center;
   background-size: cover;
 }
@@ -1906,7 +1906,7 @@ height: 200%;
 
 
 .heroimg1 {
-  background-image: url('assets/img/GlimpseHero.jpg');
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/GlimpseHero.jpg?raw=true');
   background-size: cover;
   background-position: center;
   height: 45em;
@@ -1916,7 +1916,7 @@ height: 200%;
 
 @media screen and (max-width: 600px) {
   .heroimg1 {
-    background-image: url('assets/img/GlimpseHero.jpg');
+    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/GlimpseHero.jpg?raw=true');
 
     background-size: cover;
     height: 10em;
@@ -1928,7 +1928,7 @@ height: 200%;
 
 @media (min-width: 992px) and (max-width: 1200px) {
   .heroimg1 {
-    background-image: url('assets/img/GlimpseHero.jpg');
+    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/GlimpseHero.jpg?raw=true');
     background-size: cover;
     background-position: center;
 
