@@ -1935,6 +1935,17 @@ height: 200%;
   }
 }
 
+@media screen and (max-width: 1600px) {
+  .heroimg1 {
+    background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/GlimpseHero.jpg?raw=true');
+
+    background-size: cover;
+    height: 30em;
+
+    margin-top: 10%;
+    background-position: center;
+  }
+}
 
 
 
