@@ -1903,6 +1903,13 @@ height: 200%;
 }
 
 
+.card-header-img-burnley {
+  background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/Burnley.jpg?raw=true');
+  background-position: center;
+  background-size: cover;
+}
+
+
 .heroimg1 {
   background-image: url('https://github.com/lmiddleton5/Freshers2020/blob/master/assets/img/GlimpseHero.jpg?raw=true');
   background-size: cover;
